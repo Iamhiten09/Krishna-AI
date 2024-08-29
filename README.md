@@ -1,1 +1,1 @@
-# Teena-AI
+# Krishna-AI Voice Assistant
